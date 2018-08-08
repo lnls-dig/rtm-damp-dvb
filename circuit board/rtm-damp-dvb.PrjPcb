@@ -123,40 +123,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document6]
-DocumentPath=CAMtastic1.Cam
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document7]
-DocumentPath=CAMtastic2.Cam
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
 [GeneratedDocument1]
 DocumentPath=Project Outputs for rtm-damp-dvb\odb\steps\pcb\layers\comp_+_top\components
 DItemRevisionGUID=
@@ -166,194 +132,110 @@ DocumentPath=Project Outputs for rtm-damp-dvb\odb\steps\pcb\eda\data
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for rtm-damp-dvb\Design Rule Check - rtm-damp-dvb.html
-DItemRevisionGUID=
-
-[GeneratedDocument4]
 DocumentPath=Project Outputs for rtm-damp-dvb\odb\steps\pcb\layers\bottom_layer\features
 DItemRevisionGUID=
 
-[GeneratedDocument5]
+[GeneratedDocument4]
 DocumentPath=Project Outputs for rtm-damp-dvb\odb\steps\pcb\layers\bottom_overlay\features
 DItemRevisionGUID=
 
-[GeneratedDocument6]
+[GeneratedDocument5]
 DocumentPath=Project Outputs for rtm-damp-dvb\odb\steps\pcb\layers\bottom_paste\features
 DItemRevisionGUID=
 
-[GeneratedDocument7]
+[GeneratedDocument6]
 DocumentPath=Project Outputs for rtm-damp-dvb\odb\steps\pcb\layers\bottom_solder\features
 DItemRevisionGUID=
 
-[GeneratedDocument8]
+[GeneratedDocument7]
 DocumentPath=Project Outputs for rtm-damp-dvb\odb\steps\pcb\layers\comp_+_top\features
 DItemRevisionGUID=
 
-[GeneratedDocument9]
+[GeneratedDocument8]
 DocumentPath=Project Outputs for rtm-damp-dvb\odb\steps\pcb\layers\drill\features
 DItemRevisionGUID=
 
-[GeneratedDocument10]
+[GeneratedDocument9]
 DocumentPath=Project Outputs for rtm-damp-dvb\odb\steps\pcb\layers\gnd\features
 DItemRevisionGUID=
 
-[GeneratedDocument11]
+[GeneratedDocument10]
 DocumentPath=Project Outputs for rtm-damp-dvb\odb\steps\pcb\layers\keep-out_layer\features
 DItemRevisionGUID=
 
-[GeneratedDocument12]
+[GeneratedDocument11]
 DocumentPath=Project Outputs for rtm-damp-dvb\odb\steps\pcb\layers\mechanical_1\features
 DItemRevisionGUID=
 
-[GeneratedDocument13]
+[GeneratedDocument12]
 DocumentPath=Project Outputs for rtm-damp-dvb\odb\steps\pcb\layers\mechanical_8\features
 DItemRevisionGUID=
 
-[GeneratedDocument14]
+[GeneratedDocument13]
 DocumentPath=Project Outputs for rtm-damp-dvb\odb\steps\pcb\layers\mechanical_13\features
 DItemRevisionGUID=
 
-[GeneratedDocument15]
+[GeneratedDocument14]
 DocumentPath=Project Outputs for rtm-damp-dvb\odb\steps\pcb\layers\mechanical_14\features
 DItemRevisionGUID=
 
-[GeneratedDocument16]
+[GeneratedDocument15]
 DocumentPath=Project Outputs for rtm-damp-dvb\odb\steps\pcb\layers\mechanical_15\features
 DItemRevisionGUID=
 
-[GeneratedDocument17]
+[GeneratedDocument16]
 DocumentPath=Project Outputs for rtm-damp-dvb\odb\steps\pcb\layers\top_layer\features
 DItemRevisionGUID=
 
-[GeneratedDocument18]
+[GeneratedDocument17]
 DocumentPath=Project Outputs for rtm-damp-dvb\odb\steps\pcb\layers\top_overlay\features
 DItemRevisionGUID=
 
-[GeneratedDocument19]
+[GeneratedDocument18]
 DocumentPath=Project Outputs for rtm-damp-dvb\odb\steps\pcb\layers\top_paste\features
 DItemRevisionGUID=
 
-[GeneratedDocument20]
+[GeneratedDocument19]
 DocumentPath=Project Outputs for rtm-damp-dvb\odb\steps\pcb\layers\top_solder\features
 DItemRevisionGUID=
 
-[GeneratedDocument21]
+[GeneratedDocument20]
 DocumentPath=Project Outputs for rtm-damp-dvb\odb\steps\pcb\layers\vcc\features
 DItemRevisionGUID=
 
-[GeneratedDocument22]
+[GeneratedDocument21]
 DocumentPath=Project Outputs for rtm-damp-dvb\odb\matrix\matrix
 DItemRevisionGUID=
 
-[GeneratedDocument23]
+[GeneratedDocument22]
 DocumentPath=Project Outputs for rtm-damp-dvb\odb\steps\pcb\netlists\cadnet\netlist
 DItemRevisionGUID=
 
-[GeneratedDocument24]
+[GeneratedDocument23]
 DocumentPath=Project Outputs for rtm-damp-dvb\odb\steps\pcb\profile
 DItemRevisionGUID=
 
-[GeneratedDocument25]
+[GeneratedDocument24]
 DocumentPath=Project Outputs for rtm-damp-dvb\rtm-damp-dvb.DRR
 DItemRevisionGUID=
 
-[GeneratedDocument26]
-DocumentPath=Project Outputs for rtm-damp-dvb\rtm-damp-dvb.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument27]
-DocumentPath=Project Outputs for rtm-damp-dvb\rtm-damp-dvb.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument28]
-DocumentPath=Project Outputs for rtm-damp-dvb\rtm-damp-dvb.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument29]
-DocumentPath=Project Outputs for rtm-damp-dvb\rtm-damp-dvb.GBP
-DItemRevisionGUID=
-
-[GeneratedDocument30]
-DocumentPath=Project Outputs for rtm-damp-dvb\rtm-damp-dvb.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument31]
-DocumentPath=Project Outputs for rtm-damp-dvb\rtm-damp-dvb.GKO
-DItemRevisionGUID=
-
-[GeneratedDocument32]
-DocumentPath=Project Outputs for rtm-damp-dvb\rtm-damp-dvb.GM1
-DItemRevisionGUID=
-
-[GeneratedDocument33]
-DocumentPath=Project Outputs for rtm-damp-dvb\rtm-damp-dvb.GM8
-DItemRevisionGUID=
-
-[GeneratedDocument34]
-DocumentPath=Project Outputs for rtm-damp-dvb\rtm-damp-dvb.GM13
-DItemRevisionGUID=
-
-[GeneratedDocument35]
-DocumentPath=Project Outputs for rtm-damp-dvb\rtm-damp-dvb.GM14
-DItemRevisionGUID=
-
-[GeneratedDocument36]
-DocumentPath=Project Outputs for rtm-damp-dvb\rtm-damp-dvb.GM15
-DItemRevisionGUID=
-
-[GeneratedDocument37]
-DocumentPath=Project Outputs for rtm-damp-dvb\rtm-damp-dvb.GP1
-DItemRevisionGUID=
-
-[GeneratedDocument38]
-DocumentPath=Project Outputs for rtm-damp-dvb\rtm-damp-dvb.GP2
-DItemRevisionGUID=
-
-[GeneratedDocument39]
-DocumentPath=Project Outputs for rtm-damp-dvb\rtm-damp-dvb.GPB
-DItemRevisionGUID=
-
-[GeneratedDocument40]
-DocumentPath=Project Outputs for rtm-damp-dvb\rtm-damp-dvb.GPT
-DItemRevisionGUID=
-
-[GeneratedDocument41]
-DocumentPath=Project Outputs for rtm-damp-dvb\rtm-damp-dvb.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument42]
-DocumentPath=Project Outputs for rtm-damp-dvb\rtm-damp-dvb.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument43]
-DocumentPath=Project Outputs for rtm-damp-dvb\rtm-damp-dvb.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument44]
-DocumentPath=Project Outputs for rtm-damp-dvb\rtm-damp-dvb.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument45]
+[GeneratedDocument25]
 DocumentPath=Project Outputs for rtm-damp-dvb\rtm-damp-dvb.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument46]
+[GeneratedDocument26]
 DocumentPath=Project Outputs for rtm-damp-dvb\rtm-damp-dvb.REP
 DItemRevisionGUID=
 
-[GeneratedDocument47]
-DocumentPath=Project Outputs for rtm-damp-dvb\rtm-damp-dvb.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument48]
+[GeneratedDocument27]
 DocumentPath=Project Outputs for rtm-damp-dvb\rtm-damp-dvb.TXT
 DItemRevisionGUID=
 
-[GeneratedDocument49]
+[GeneratedDocument28]
 DocumentPath=Project Outputs for rtm-damp-dvb\odb\steps\pcb\stephdr
 DItemRevisionGUID=
 
-[GeneratedDocument50]
+[GeneratedDocument29]
 DocumentPath=Project Outputs for rtm-damp-dvb\odb\steps\pcb\layers\drill\tools
 DItemRevisionGUID=
 
