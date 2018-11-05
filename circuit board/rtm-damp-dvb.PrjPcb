@@ -106,156 +106,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=NUKQLTJE
 
-[Document5]
-DocumentPath=CAMtastic1.Cam
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document6]
-DocumentPath=CAMtastic2.Cam
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[GeneratedDocument1]
-DocumentPath=Project Outputs for rtm-damp-dvb\odb\steps\pcb\layers\comp_+_top\components
-DItemRevisionGUID=
-
-[GeneratedDocument2]
-DocumentPath=Project Outputs for rtm-damp-dvb\odb\steps\pcb\eda\data
-DItemRevisionGUID=
-
-[GeneratedDocument3]
-DocumentPath=Project Outputs for rtm-damp-dvb\odb\steps\pcb\layers\bottom_layer\features
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project Outputs for rtm-damp-dvb\odb\steps\pcb\layers\bottom_overlay\features
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Project Outputs for rtm-damp-dvb\odb\steps\pcb\layers\bottom_paste\features
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Project Outputs for rtm-damp-dvb\odb\steps\pcb\layers\bottom_solder\features
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Project Outputs for rtm-damp-dvb\odb\steps\pcb\layers\comp_+_top\features
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Project Outputs for rtm-damp-dvb\odb\steps\pcb\layers\drill\features
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Project Outputs for rtm-damp-dvb\odb\steps\pcb\layers\gnd\features
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Project Outputs for rtm-damp-dvb\odb\steps\pcb\layers\keep-out_layer\features
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Project Outputs for rtm-damp-dvb\odb\steps\pcb\layers\mechanical_1\features
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Project Outputs for rtm-damp-dvb\odb\steps\pcb\layers\mechanical_8\features
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Project Outputs for rtm-damp-dvb\odb\steps\pcb\layers\mechanical_13\features
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=Project Outputs for rtm-damp-dvb\odb\steps\pcb\layers\mechanical_14\features
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=Project Outputs for rtm-damp-dvb\odb\steps\pcb\layers\mechanical_15\features
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=Project Outputs for rtm-damp-dvb\odb\steps\pcb\layers\top_layer\features
-DItemRevisionGUID=
-
-[GeneratedDocument17]
-DocumentPath=Project Outputs for rtm-damp-dvb\odb\steps\pcb\layers\top_overlay\features
-DItemRevisionGUID=
-
-[GeneratedDocument18]
-DocumentPath=Project Outputs for rtm-damp-dvb\odb\steps\pcb\layers\top_paste\features
-DItemRevisionGUID=
-
-[GeneratedDocument19]
-DocumentPath=Project Outputs for rtm-damp-dvb\odb\steps\pcb\layers\top_solder\features
-DItemRevisionGUID=
-
-[GeneratedDocument20]
-DocumentPath=Project Outputs for rtm-damp-dvb\odb\steps\pcb\layers\vcc\features
-DItemRevisionGUID=
-
-[GeneratedDocument21]
-DocumentPath=Project Outputs for rtm-damp-dvb\odb\matrix\matrix
-DItemRevisionGUID=
-
-[GeneratedDocument22]
-DocumentPath=Project Outputs for rtm-damp-dvb\odb\steps\pcb\netlists\cadnet\netlist
-DItemRevisionGUID=
-
-[GeneratedDocument23]
-DocumentPath=Project Outputs for rtm-damp-dvb\odb\steps\pcb\profile
-DItemRevisionGUID=
-
-[GeneratedDocument24]
-DocumentPath=Project Outputs for rtm-damp-dvb\rtm-damp-dvb.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument25]
-DocumentPath=Project Outputs for rtm-damp-dvb\rtm-damp-dvb.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument26]
-DocumentPath=Project Outputs for rtm-damp-dvb\rtm-damp-dvb.REP
-DItemRevisionGUID=
-
-[GeneratedDocument27]
-DocumentPath=Project Outputs for rtm-damp-dvb\rtm-damp-dvb.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument28]
-DocumentPath=Project Outputs for rtm-damp-dvb\odb\steps\pcb\stephdr
-DItemRevisionGUID=
-
-[GeneratedDocument29]
-DocumentPath=Project Outputs for rtm-damp-dvb\odb\steps\pcb\layers\drill\tools
-DItemRevisionGUID=
-
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0
@@ -269,7 +119,7 @@ ConfigurationType=
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
-TargetPrinter=Lexmark E460dn Class Driver (Copiar 1)
+TargetPrinter=PDFCreator
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=EDIF
 OutputName1=EDIF for PCB
@@ -286,107 +136,97 @@ OutputName3=Protel
 OutputDocumentPath3=
 OutputVariantName3=
 OutputDefault3=0
-OutputType4=XSpiceNetlist
-OutputName4=XSpice Netlist
+OutputType4=Protel2Netlist
+OutputName4=Protel2 Netlist
 OutputDocumentPath4=
 OutputVariantName4=
 OutputDefault4=0
-OutputType5=Protel2Netlist
-OutputName5=Protel2 Netlist
+OutputType5=CadnetixNetlist
+OutputName5=Cadnetix Netlist
 OutputDocumentPath5=
 OutputVariantName5=
 OutputDefault5=0
-OutputType6=CadnetixNetlist
-OutputName6=Cadnetix Netlist
+OutputType6=CalayNetlist
+OutputName6=Calay Netlist
 OutputDocumentPath6=
 OutputVariantName6=
 OutputDefault6=0
-OutputType7=CalayNetlist
-OutputName7=Calay Netlist
+OutputType7=EESofNetlist
+OutputName7=EESof Netlist
 OutputDocumentPath7=
 OutputVariantName7=
 OutputDefault7=0
-OutputType8=EESofNetlist
-OutputName8=EESof Netlist
+OutputType8=IntergraphNetlist
+OutputName8=Intergraph Netlist
 OutputDocumentPath8=
 OutputVariantName8=
 OutputDefault8=0
-OutputType9=IntergraphNetlist
-OutputName9=Intergraph Netlist
+OutputType9=MentorBoardStationNetlist
+OutputName9=Mentor BoardStation Netlist
 OutputDocumentPath9=
 OutputVariantName9=
 OutputDefault9=0
-OutputType10=MentorBoardStationNetlist
-OutputName10=Mentor BoardStation Netlist
+OutputType10=OrCadPCB2Netlist
+OutputName10=Orcad/PCB2 Netlist
 OutputDocumentPath10=
 OutputVariantName10=
 OutputDefault10=0
-OutputType11=OrCadPCB2Netlist
-OutputName11=Orcad/PCB2 Netlist
+OutputType11=PADSNetlist
+OutputName11=PADS ASCII Netlist
 OutputDocumentPath11=
 OutputVariantName11=
 OutputDefault11=0
-OutputType12=PADSNetlist
-OutputName12=PADS ASCII Netlist
+OutputType12=Pcad
+OutputName12=Pcad for PCB
 OutputDocumentPath12=
 OutputVariantName12=
 OutputDefault12=0
-OutputType13=Pcad
-OutputName13=Pcad for PCB
+OutputType13=PCADNetlist
+OutputName13=PCAD Netlist
 OutputDocumentPath13=
 OutputVariantName13=
 OutputDefault13=0
-OutputType14=PCADNetlist
-OutputName14=PCAD Netlist
+OutputType14=PCADnltNetlist
+OutputName14=PCADnlt Netlist
 OutputDocumentPath14=
 OutputVariantName14=
 OutputDefault14=0
-OutputType15=PCADnltNetlist
-OutputName15=PCADnlt Netlist
+OutputType15=RacalNetlist
+OutputName15=Racal Netlist
 OutputDocumentPath15=
 OutputVariantName15=
 OutputDefault15=0
-OutputType16=RacalNetlist
-OutputName16=Racal Netlist
+OutputType16=RINFNetlist
+OutputName16=RINF Netlist
 OutputDocumentPath16=
 OutputVariantName16=
 OutputDefault16=0
-OutputType17=RINFNetlist
-OutputName17=RINF Netlist
+OutputType17=SciCardsNetlist
+OutputName17=SciCards Netlist
 OutputDocumentPath17=
 OutputVariantName17=
 OutputDefault17=0
-OutputType18=SciCardsNetlist
-OutputName18=SciCards Netlist
+OutputType18=TangoNetlist
+OutputName18=Tango Netlist
 OutputDocumentPath18=
 OutputVariantName18=
 OutputDefault18=0
-OutputType19=TangoNetlist
-OutputName19=Tango Netlist
+OutputType19=TelesisNetlist
+OutputName19=Telesis Netlist
 OutputDocumentPath19=
 OutputVariantName19=
 OutputDefault19=0
-OutputType20=TelesisNetlist
-OutputName20=Telesis Netlist
+OutputType20=WireListNetlist
+OutputName20=WireList Netlist
 OutputDocumentPath20=
 OutputVariantName20=
 OutputDefault20=0
-OutputType21=WireListNetlist
-OutputName21=WireList Netlist
-OutputDocumentPath21=
-OutputVariantName21=
-OutputDefault21=0
 
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=Lexmark E460dn Class Driver (Copiar 1)
+TargetPrinter=PDFCreator
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
-OutputType1=AdvSimNetlist
-OutputName1=Mixed Sim
-OutputDocumentPath1=
-OutputVariantName1=
-OutputDefault1=0
 
 [OutputGroup3]
 Name=Documentation Outputs
@@ -457,7 +297,7 @@ PageOptions10=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup4]
 Name=Assembly Outputs
 Description=
-TargetPrinter=Lexmark E460dn Class Driver (Copiar 1)
+TargetPrinter=PDFCreator
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Assembly
 OutputName1=Assembly Drawings
@@ -479,7 +319,7 @@ OutputDefault3=0
 [OutputGroup5]
 Name=Fabrication Outputs
 Description=
-TargetPrinter=Lexmark E460dn Class Driver (Copiar 1)
+TargetPrinter=PDFCreator
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Drill
 OutputName1=Drill Drawing/Guides
@@ -561,7 +401,7 @@ Configuration12_Item1=AddToAllLayerClasses.Set= |AddToAllPlots.Set=SerializeLaye
 [OutputGroup6]
 Name=Report Outputs
 Description=
-TargetPrinter=Lexmark E460dn Class Driver (Copiar 1)
+TargetPrinter=PDFCreator
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=BOM_PartType
 OutputName1=Bill of Materials
@@ -612,7 +452,7 @@ OutputDefault6=0
 [OutputGroup7]
 Name=Other Outputs
 Description=
-TargetPrinter=Lexmark E460dn Class Driver (Copiar 1)
+TargetPrinter=PDFCreator
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Text Print
 OutputName1=Text Print
@@ -792,7 +632,7 @@ PageOptions29=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|Print
 [OutputGroup8]
 Name=Validation Outputs
 Description=
-TargetPrinter=Lexmark E460dn Class Driver (Copiar 1)
+TargetPrinter=PDFCreator
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Configuration compliance
 OutputName1=Environment configuration compliance check
@@ -831,7 +671,7 @@ OutputDefault6=0
 [OutputGroup9]
 Name=Export Outputs
 Description=
-TargetPrinter=Lexmark E460dn Class Driver (Copiar 1)
+TargetPrinter=PDFCreator
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=AutoCAD dwg/dxf PCB
 OutputName1=AutoCAD dwg/dxf File PCB
@@ -878,11 +718,41 @@ OutputName9=Specctra Design PCB
 OutputDocumentPath9=
 OutputVariantName9=
 OutputDefault9=0
+OutputType10=Ansoft Neutral
+OutputName10=Ansoft Neutral (AutoPCB)
+OutputDocumentPath10=
+OutputVariantName10=
+OutputDefault10=0
+OutputType11=HyperLynx
+OutputName11=HyperLynx (AutoPCB)
+OutputDocumentPath11=
+OutputVariantName11=
+OutputDefault11=0
+OutputType12=Orcad v7 Capture Design
+OutputName12=Orcad v7 Capture Design (AutoSCH)
+OutputDocumentPath12=
+OutputVariantName12=
+OutputDefault12=0
+OutputType13=P-CAD ASCII
+OutputName13=P-CAD ASCII (AutoPCB)
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+OutputType14=P-CAD V16 Schematic Design
+OutputName14=P-CAD V16 Schematic Design (AutoSCH)
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+OutputType15=SiSoft
+OutputName15=SiSoft (AutoPCB)
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
 
 [OutputGroup10]
 Name=PostProcess Outputs
 Description=
-TargetPrinter=Lexmark E460dn Class Driver (Copiar 1)
+TargetPrinter=PDFCreator
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 OutputType1=Copy Files
 OutputName1=Copy Files
