@@ -1,3 +1,5 @@
 circuit board/History*
 circuit board/__Previews*
 *.pdf
+*.LOG
+/circuit board/Project Outputs*
